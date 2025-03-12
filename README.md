@@ -1,4 +1,4 @@
-# Welcome to y
+# Welcome to My Todo App
 ![mockup](https://github.com/user-attachments/assets/fa033278-7ce1-434e-b9b0-4c45ffa18717)
 our Expo app 👋
 
