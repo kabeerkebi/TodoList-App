@@ -1,5 +1,4 @@
 # Welcome to y
-![images (5)](https://github.com/user-attachments/assets/64a96241-aed4-4ea0-a0a1-f07512c73c80)
 ![mockup](https://github.com/user-attachments/assets/fa033278-7ce1-434e-b9b0-4c45ffa18717)
 our Expo app 👋
 
